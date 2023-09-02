@@ -1,1 +1,0 @@
-// Write a program to calculate the gross of an employee where basic pay is entered by the user through keyboard Dearness allowance 15 % basic pay, rent allowance 20 % of basic pay, travel allowance 5 % of basic pay used structure within structure.

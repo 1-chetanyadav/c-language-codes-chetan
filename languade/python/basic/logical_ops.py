@@ -1,8 +1,0 @@
-print ("4>5")
-print (4>5)
-print("not 4>5")
-print(not 4>5)
-print ("4>5 & 7<4")
-print (4>5 & 7<4)
-print ("7<6 or 4>5")
-print (7<6 or 4>5)
