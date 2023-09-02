@@ -1,0 +1,5 @@
+a=input("enter number 2 > " )
+b=input("enter number 1 > " )
+sum = int(a)+ int(b)
+print(sum)
+print("the sum is :"+str(sum))
